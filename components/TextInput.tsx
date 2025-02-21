@@ -1,6 +1,4 @@
 
-
-
 import { useState } from "react";
 
 const TextInput = ({ onSend }: { onSend: (text: string) => void }) => {

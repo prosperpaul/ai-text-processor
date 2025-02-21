@@ -1,7 +1,4 @@
 
-
-
-
 const ChatMessage = ({
   text = "",
   type = "user",
